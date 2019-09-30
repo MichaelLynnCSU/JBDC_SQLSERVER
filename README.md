@@ -1,12 +1,9 @@
 # JBDC_SQLSERVER
 
 
-<dependency>
-   <groupId>com.microsoft.sqlserver</groupId>
-   <artifactId>mssql-jdbc</artifactId>
-    <version>7.0.0.jre8</version>
-</dependency>
+POM
 
+https://mvnrepository.com/artifact/com.microsoft.sqlserver/mssql-jdbc/7.0.0.jre8
 
 
 Changing the SQL Server Default Ports
