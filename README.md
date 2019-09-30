@@ -1,12 +1,12 @@
 # JBDC_SQLSERVER
 
 
-POM
+#POM
 
 https://mvnrepository.com/artifact/com.microsoft.sqlserver/mssql-jdbc/7.0.0.jre8
 
 
-Changing the SQL Server Default Ports
+#Changing the SQL Server Default Ports
 
 Procedure
 
@@ -26,13 +26,13 @@ Restart the SQL Server Services
 
 
 
-Connect with database which is using windows authentication
+#Connect with database which is using windows authentication
  
 Procedure
  
 DriverManager.getConnection("jdbc:sqlserver://localhost:<defaultport>;integratedSecurity=true;");
   
-Download the JDBC Driver
+#Download the JDBC Driver
  
 https://www.microsoft.com/en-us/download/details.aspx?id=11774
  
