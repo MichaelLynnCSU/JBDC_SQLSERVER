@@ -24,7 +24,9 @@ In the IPAll section for each instance, type in a new port for SQL Server 2012 r
 
 Restart the SQL Server Services
 
+# What is IPAll in TCP/IP properties protocol tab?
 
+it is the port that sql server would listen on for all IPs assigned to the server
 
 # Connect with database which is using windows authentication
  
